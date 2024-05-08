@@ -1,0 +1,7 @@
+This a game based around solving weight based puzzels that involve
+transporting the correct number of standardized weights to specific scale tiles which will weight them.
+Each scale is set up to expect a precise amount of weight to be placed on it. If the correct amount of
+weight is placed on all scales then the game is won. If any scale has the incorrect amount of weight
+placed on it then the game ends in failure.The player may move one step in any directions (including diagonals). The player cannot
+move outside of the environment.The game ends in failure when if the player steps on a scale carrying the wrong amount of
+weight and also ends in failure if the player fails to drop a weight.The game ends in victory when all the scales are removed.
